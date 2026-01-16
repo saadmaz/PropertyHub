@@ -275,13 +275,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Unsplash** - High-quality placeholder images
 - **Lucide React** - Consistent icon system
 
-## 📞 Support
-
-For support and questions:
-- Create an issue on GitHub
-- Email: support@propertyhub.dev
-- Documentation: [Wiki](https://github.com/your-repo/wiki)
-
----
 
 **PropertyHub** - Find Your Perfect Home 🏡
